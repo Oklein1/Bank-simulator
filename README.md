@@ -49,6 +49,7 @@ lein run uberjar
 ## Front Page Functionality: (Starting function)
 
 - `sign-up!`: Prompts the user to sign up and creates a new account.
+- `sign-in!`: Prompts the user to sign in and checks if the account exists in the database.
 - `sign-in->main-page!`: Signs in the user and directs them to the main page.
 - `sign-up->main-page!`: Signs up the user and directs them to the main page.
 - `front-page!`: Displays options to sign in or sign up.

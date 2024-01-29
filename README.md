@@ -62,7 +62,7 @@ lein run uberjar
 **Note**: This is a simple simulation for educational purposes and may not include all the features of a real banking system.
 
 
-# FUTURE TO DOS:
+## To do list:
 1. Incorporate Database
 2. Incorporate Specs lib to ensure type consistency, especially when <code>user-input</code> function is being called.
    a. Small Example: when depositing money, the input should always be a numerical type and not, by accident, a string.
